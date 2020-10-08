@@ -1,2 +1,4 @@
 # Omnifood
-A food delivery website
+A website for food lovers.
+
+Awesome UI Design created with HTML and CSS.
